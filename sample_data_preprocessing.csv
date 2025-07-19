@@ -1,0 +1,9 @@
+Name,Age,Gender,Salary,JoinDate
+Alice,25.0,Female,50000.0,2020-01-15
+Bob,30.0,Male,60000.0,2019-06-01
+Charlie,,Male,55000.0,2021-03-20
+David,22.0,Male,,2018-07-10
+Eva,28.0,Female,70000.0,2022-10-25
+,35.0,Female,65000.0,2017-12-31
+George,40.0,,62000.0,2019-06-01
+Eva,28.0,Female,70000.0,2022-10-25
